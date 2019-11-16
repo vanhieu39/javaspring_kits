@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;LearnSpringMVC/src/main/webapp/message&apos; to &apos;messages&apos;" description="Rename resource &apos;message&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/message" name="messages" stamp="1573925079162" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;LearnSpringMVC/src/main/webapp/messages&apos; to &apos;i18n&apos;" description="Rename resource &apos;messages&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/messages" name="i18n" stamp="1573925192660" updateReferences="true"/>
+</session>
