@@ -16,5 +16,12 @@
   
   
   Current Locale : ${pageContext.response.locale}
+  
+  <h2>/Home hay /test(get))</h2>
+  <a href="home">/home</a></br>
+  <a href="test">/test (GET)</a></br>
+  <form method="POST" action="test">
+  	<button type="submit">/test (POST)</button>>
+  </form>
 </body>
 </html>
